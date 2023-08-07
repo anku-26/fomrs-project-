@@ -1,0 +1,44 @@
+.container{
+    background-color:greenyellow;
+    padding:20px;
+    width:70%;
+    margin: auto;
+}
+#mom{
+    background-color: green;
+    height:60px;
+    width:60px;
+    border-radius: 30%;
+    float: right;
+
+
+}
+.main{
+    background-color: azure;
+    padding:20px;
+    width:70%;
+    margin:auto;
+    display: flex;
+    gap:20px;
+    flex-direction: column;
+
+
+}
+#coffee{
+    width:70%;
+    height:30px;
+
+
+}
+#jo{
+    width:70%;
+    height:30px;
+}
+#loki{
+    width:70%;
+    height:30px;
+}
+#nokia{
+    width:70%;
+    height:30px;
+}
